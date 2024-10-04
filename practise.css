@@ -1,0 +1,23 @@
+nav > ul >li{
+    display: inline;
+    margin-left: 10px;
+    text-decoration: none;
+    background-color: rgb(230, 221, 221);
+    
+}
+nav > ul> li a{
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+}
+section button{
+    margin-left:10px ;
+    
+}
+img{
+    margin-top: 20px;
+}
+label{
+    display: block;
+}
